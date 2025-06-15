@@ -1,0 +1,18 @@
+{
+    "directory": "/Users/jerome/Documents/VScode/ETHICAL HACKING TASKS/TASK 3",
+    "timestamp": "2025-06-04T11:54:45.951528",
+    "files": {
+        "passwords.txt": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "last_checked": "2025-06-04T11:54:45.952136"
+        },
+        "main.py": {
+            "hash": "a3d4d8268692cc4c39ae0a845124270498b1f2ebfbd6123916270a26874e4b8e",
+            "last_checked": "2025-06-04T11:54:45.952359"
+        },
+        "file_baseline.json": {
+            "hash": "ddc46e9c1dd7b0cc8909118a7bc73ee210204fda2fd7ad6a6e74afbc29b499fd",
+            "last_checked": "2025-06-04T11:54:45.953572"
+        }
+    }
+}
