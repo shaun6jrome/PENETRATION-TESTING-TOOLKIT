@@ -47,3 +47,8 @@ This tool is intended strictly for legal and ethical use. Running brute-force at
 Summary
 
 In summary, the FTP Brute-Forcer module is an educational script designed to highlight the risks associated with weak FTP credentials. It forms an essential part of any beginner-friendly penetration testing toolkit, helping learners understand and visualize brute-force techniques. Its simplicity and effectiveness make it ideal for training, demonstrations, and building hands-on experience in ethical hacking.
+
+
+
+<img width="1063" alt="Image" src="https://github.com/user-attachments/assets/b480fc3f-78f7-47e3-92d1-cb47260f2188" />
+<img width="1061" alt="Image" src="https://github.com/user-attachments/assets/a23052f4-69d6-41b3-bd30-a18e0fbebbbd" />
